@@ -1,10 +1,7 @@
 package com.mybatis.demo.demo.dao;
 
-import com.mybatis.demo.demo.model.User;
+import com.mybatis.demo.demo.entity.User;
 import org.apache.ibatis.annotations.Mapper;
-import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Repository;
-import org.springframework.stereotype.Service;
 
 
 @Mapper

@@ -1,7 +1,7 @@
 package com.mybatis.demo.demo.controller;
 
 import com.mybatis.demo.demo.dao.UserMapper;
-import com.mybatis.demo.demo.model.User;
+import com.mybatis.demo.demo.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
