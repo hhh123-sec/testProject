@@ -1,4 +1,4 @@
-package com.mybatis.demo.demo.model;
+package com.mybatis.demo.demo.entity;
 
 public class User {
 
